@@ -1,0 +1,3 @@
+/home/razashah1781/Downloads/Xonix/build/CMakeFiles/xonix.dir
+/home/razashah1781/Downloads/Xonix/build/CMakeFiles/edit_cache.dir
+/home/razashah1781/Downloads/Xonix/build/CMakeFiles/rebuild_cache.dir
